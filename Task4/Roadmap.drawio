@@ -1,0 +1,85 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.15 Chrome/132.0.6834.196 Electron/34.2.0 Safari/537.36" version="26.0.15">
+  <diagram name="Страница — 1" id="KVLkGKcrS9-AcYbYPAO5">
+    <mxGraphModel dx="1163" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rwSEN_xFbKsDxmRGWZf1-1" value="Q1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="420" y="370" width="420" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rwSEN_xFbKsDxmRGWZf1-2" value="Q2" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="850" y="370" width="420" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rwSEN_xFbKsDxmRGWZf1-3" value="Сервис&amp;nbsp; депозитов" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="280" y="430" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="rwSEN_xFbKsDxmRGWZf1-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="413" y="430" width="857" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="rwSEN_xFbKsDxmRGWZf1-5" value="АБС" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="280" y="600" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="rwSEN_xFbKsDxmRGWZf1-6" value="Сайт" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="280" y="770" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="rwSEN_xFbKsDxmRGWZf1-7" value="Интернет-банк" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="280" y="940" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="rwSEN_xFbKsDxmRGWZf1-8" value="Релизовать сервис деопзитов, функционал создания заявки на депозит" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="420" y="440" width="410" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rwSEN_xFbKsDxmRGWZf1-9" value="Тестирование, интеграция со межными системами, нагрузочное тестирование" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="860" y="440" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rwSEN_xFbKsDxmRGWZf1-10" value="Колл-центр" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1110" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="rwSEN_xFbKsDxmRGWZf1-11" value="Внедрение" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="440" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rwSEN_xFbKsDxmRGWZf1-14" value="Сбор метрик и обратной связи, доработки" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="440" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rwSEN_xFbKsDxmRGWZf1-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="413" y="600" width="857" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="rwSEN_xFbKsDxmRGWZf1-16" value="Доработка по интеграции АБС с сервисом депозитов" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="420" y="610" width="410" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rwSEN_xFbKsDxmRGWZf1-17" value="Тестирование, интеграция со межными системами, нагрузочное тестирование" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="860" y="610" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rwSEN_xFbKsDxmRGWZf1-18" value="Внедрение" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="610" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rwSEN_xFbKsDxmRGWZf1-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="413" y="770" width="857" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="rwSEN_xFbKsDxmRGWZf1-21" value="Доработка по созданию заявки на депозит" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="425" y="780" width="410" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rwSEN_xFbKsDxmRGWZf1-22" value="Внедрение" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="780" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rwSEN_xFbKsDxmRGWZf1-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="414" y="940" width="857" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="rwSEN_xFbKsDxmRGWZf1-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="414" y="1110" width="857" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="rwSEN_xFbKsDxmRGWZf1-25" value="Внедрение" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="950" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rwSEN_xFbKsDxmRGWZf1-26" value="Внедрение" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="1120" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rwSEN_xFbKsDxmRGWZf1-27" value="Доработка по созданию заявки на депозит" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="420" y="960" width="410" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rwSEN_xFbKsDxmRGWZf1-28" value="Доработка по интеграции с сервисом депозитов" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1130" width="410" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
